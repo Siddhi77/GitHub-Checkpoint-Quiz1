@@ -1,7 +1,9 @@
 public class GitTest{
-	//public static void main(String[args]){
 
+	private String test;
 
+	public GitTest(){
+		test =  "This is my GitHub test";
+	}
 
-//}/
 }
