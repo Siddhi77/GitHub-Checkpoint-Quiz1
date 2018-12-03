@@ -8,8 +8,12 @@ public class GitTest{
 		test =  "This is my GitHub test";
 	}
 
-	public String toString(String test){
+	public String toString(){
 		return test;
+	}
+
+	public void setString(String test){
+		this.test = test;
 	}
 
 }
