@@ -8,7 +8,7 @@ public class GitTest{
 		test =  "This is my GitHub test";
 	}
 
-	public String getTest(String test){
+	public String toString(String test){
 		return test;
 	}
 
